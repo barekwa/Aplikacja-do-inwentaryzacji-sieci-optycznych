@@ -1,0 +1,12 @@
+Tabele z bazy danych
+Baza w MSSQL
+
+Punkty
+[Nazwa] [nvarchar](50)
+[Koordynaty] [geography]
+[Username] [nvarchar](50)
+
+Users
+[Username] [nvarchar](50)
+[Email] [nvarchar](50)
+[Password] [nvarchar](50)
